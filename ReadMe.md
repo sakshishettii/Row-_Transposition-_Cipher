@@ -1,6 +1,7 @@
 ➛ CS558 - Assignment 1: Row Transposition Cipher
 
 ➛ Author Information
+
     ➛ Name: Sakshi Shetty
     ➛ Programming Language Used: Java
     ➛ Tested on remote.cs.binghamton.edu: Yes
