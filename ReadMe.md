@@ -1,4 +1,3 @@
-➛ CS558 - Assignment 1: Row Transposition Cipher
 
 ➛ Author Information
 
